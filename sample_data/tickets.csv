@@ -1,0 +1,2 @@
+ticket_id,agent,start_time,end_time,category
+T1001,Alice,2025-11-03T09:10:00,2025-11-03T09:25:00,incident
